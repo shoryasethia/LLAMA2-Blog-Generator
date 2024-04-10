@@ -10,3 +10,8 @@ conda create -p venv python==3.9 --y
 ```
 conda create -n venv python==3.9 --y
 ```
+### And activate it by
+
+```
+conda activate venv
+```
